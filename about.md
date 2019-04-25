@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+记录个人一些学习的输出
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[lvbo09@gmail.com](mailto:lvbo09@gmail.com)
